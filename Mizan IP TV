@@ -129,8 +129,7 @@ http://103.141.66.36/bpk-tv/10210/default/manifest.mpd?=.m3u8
 http://103.144.200.7:8080/hls/b4umusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JAGO BD",GAAN BANGLA [BD]
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
-
+###### Movies ######
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp4snOO.jpg" group-title="MOVIE PLEX",KOLI 2.0 (2018)
 http://server2.ftpbd.net/FTP-2/Bangla%20Collection/BANGLA/Web%20Series/Koli%202.0%20%5B2018%5D%20Bengali%20Movie%201080p/Koli%202.0%20%5B2018%5D%20Bengali%20Movie%201080p%20UNTOUCHED%20-%20Webdl%20x%20264%20AVC%20-%20AAC%20-%20DD%202.0%20By%20Team%20Techbangla%20Xclusive.mp4
 #EXTINF:-1 tvg-logo="http://ctgmovies.com/wp-content/uploads/2020/05/rsz_mv5boda0mdczmdctowrhni00owrmlwi0njytm2zimmjiy2nhzwrmxkeyxkfqcgdeqxvyode5nze3ote_v1_sy1000_sx1000_al_-620x620.jpg" group-title="MOVIE PLEX",GHOOMKETU (2020)
