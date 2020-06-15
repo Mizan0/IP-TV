@@ -40,7 +40,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/123.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA ENT.",Sony Aath [IN] (2)
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BANGLA ENT.",Sangeet Bangla [IN]
-###### Movies ######
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX (1)
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX (2)
@@ -742,4 +741,3 @@ https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=
 https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="MOVIE PLEX", INDONESIAN || DANUR
 https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
